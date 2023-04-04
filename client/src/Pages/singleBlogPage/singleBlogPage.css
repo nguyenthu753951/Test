@@ -1,0 +1,13 @@
+.singleBlogContainer {
+  padding-top: 65px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.singleBlogWrapper {
+  display: flex;
+  width: 100%;
+  max-width: 1355px;
+}

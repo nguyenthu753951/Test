@@ -1,0 +1,22 @@
+.home {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+.videoHero {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.homContainer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.homeTitle {
+  width: 1300px;
+  font-size: 23px;
+}

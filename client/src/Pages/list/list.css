@@ -1,0 +1,46 @@
+
+.listContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.listWrapper {
+  width: 100%;
+  max-width: 1300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 3;
+}
+.destinationInfo{
+  display: flex;
+  
+}
+.hotelH5{
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 20px;
+
+}
+.hotelContainer {
+  flex: 2;
+  background-color: #d1dde8;
+  padding: 10px;
+  border-radius: 5px;
+  position: sticky;
+  top: 80px;
+  height: 600px;
+  padding: 20px;
+}
+.hotelReal{
+  height: 500px;
+  overflow: auto;
+}
+.container{
+  width: 100%;
+  display: flex;
+}
+.mapComponent{
+  flex: 2;
+}

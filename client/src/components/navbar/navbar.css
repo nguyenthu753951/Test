@@ -1,0 +1,52 @@
+.navbar {
+  height: 65px;
+  backdrop-filter: blur(7px);
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navContainer {
+  width: 100%;
+  max-width: 1300px;
+  color: #148bed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.logo {
+  width: 200px;
+}
+.navButton {
+  height: 35px;
+  margin-left: 20px;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  background-color: #148bed;
+}
+.navBarImgUser{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.navOrder{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navOrderIcon{
+  font-size: 20px;
+  color: #148bed;
+  margin-right: 25px;
+}

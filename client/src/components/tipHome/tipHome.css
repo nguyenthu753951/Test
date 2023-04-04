@@ -1,0 +1,28 @@
+.headerTip {
+    margin-top: 19vh;
+  }
+  .headerTipTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Lora", serif;
+    color: black;
+  }
+  .headerTipTitleMg {
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+  }
+  .headerTipTitleLg {
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+    color: rgb(42, 39, 39);
+  }
+  .headerTipImg {
+    width: 100%;
+    height: 40vh;
+    margin-top: 75px;
+    object-fit: cover;
+  }

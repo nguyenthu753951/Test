@@ -1,0 +1,13 @@
+.travelTipsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.travelTipsMain{
+    display: flex;
+    max-width: 100%;
+    max-width: 1340px;
+}
+

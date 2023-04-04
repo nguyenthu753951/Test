@@ -10,8 +10,17 @@ on:
       - '**.js'
       - '!docs/**'
       - '!dev/**'
-    branches: [ "main" ]
+    branches: 
+      - 'main'
+      - 'release/**'
+      - '!dev/**' 
   pull_request:
+    types:
+      - opened
+      - closed
+      - synchronize
+      - unlabeled
+    
     branches: [ "main" ]
   
 

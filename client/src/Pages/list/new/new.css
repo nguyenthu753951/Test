@@ -1,0 +1,28 @@
+.newsContainer{
+    width: 1000px;
+}
+.newCard{
+   display: flex;
+   margin: 20px;
+}
+.newImgs{
+    margin: 20px;
+    border-radius: 10px;
+}
+.newImg{
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}
+.newHeadline{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.newLink{
+    text-decoration: none;
+    color: #0694f4;
+    font-size: 20px;
+}

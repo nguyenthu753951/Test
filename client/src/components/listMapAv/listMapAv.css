@@ -1,0 +1,24 @@
+h1 {
+  font-size: 20px;
+  padding: 0;
+  padding-bottom: 10px;
+}
+.selectContainer {
+  display: flex;
+}
+.controlLB {
+  padding: 10px;
+  color: rgb(44, 42, 42);
+  font-size: 13px;
+}
+.select {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  margin-right: 50px;
+}
+.PlaceDetails {
+  height: 79vh;
+  overflow: scroll;
+}

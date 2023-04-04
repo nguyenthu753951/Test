@@ -1,0 +1,12 @@
+.AppMap{
+  width: 1300px;
+  margin: 0 auto;
+  padding-bottom: 25px;
+  border-radius: 10px;
+}
+
+.Wrapper h2{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
