@@ -12,7 +12,7 @@ export const getPlacesData = async () => {
         bl_latitude: "11.847676",
         tr_latitude: "12.838442",
         bl_longitude: "109.095887",
-        tr_longitude: "109.149359",
+        tr_longitude: "109.149389",
       },
       headers: {
         "X-RapidAPI-Key": "9be639eb2bmsh890d284cce6b565p1f4f67jsn7377fa5a2277",
